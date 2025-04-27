@@ -394,4 +394,5 @@ $RECYCLE.BIN/
 
 _NCrunch*
 test
+test/
 test/*
