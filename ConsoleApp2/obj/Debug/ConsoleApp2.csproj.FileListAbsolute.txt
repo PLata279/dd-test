@@ -1,0 +1,7 @@
+\\192.168.100.100\ольшанка\To2(10)\Блюдник Платон\Консольные программы\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+\\192.168.100.100\ольшанка\To2(10)\Блюдник Платон\Консольные программы\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+\\192.168.100.100\ольшанка\To2(10)\Блюдник Платон\Консольные программы\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+\\192.168.100.100\ольшанка\To2(10)\Блюдник Платон\Консольные программы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+\\192.168.100.100\ольшанка\To2(10)\Блюдник Платон\Консольные программы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+\\192.168.100.100\ольшанка\To2(10)\Блюдник Платон\Консольные программы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+\\192.168.100.100\ольшанка\To2(10)\Блюдник Платон\Консольные программы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
