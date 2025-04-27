@@ -393,4 +393,5 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+test
 test/*
